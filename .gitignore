@@ -3,3 +3,6 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+app/app_error_log.txt
+app_v1/app_error_log.txt
+app_v2/app_error_log.txt
